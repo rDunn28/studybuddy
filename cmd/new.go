@@ -22,7 +22,7 @@ import (
 
 	"github.com/manifoldco/promptui"
 	"github.com/spf13/cobra"
-	"github.com/studybuddy/data"
+	"github.com/rDunn28/studybuddy/data"
 )
 
 // newCmd represents the new command
